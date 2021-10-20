@@ -157,4 +157,3 @@ const showToast = (msg) => {
         toast.style.transform = "translate(-50%, 60px)";
     }, 2000);
 };
-
